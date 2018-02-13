@@ -1,0 +1,29 @@
+{
+  "name": "asbs-inquiry",
+  "version": "1.0.0",
+  "description": "ASBS Data Inquiry",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ASBS",
+    "Data",
+    "Inquiry"
+  ],
+  "author": "Febry",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "express-validator": "^4.3.0",
+    "handlebars": "^4.0.11",
+    "jade": "^1.11.0",
+    "mssql": "^4.1.0",
+    "nodemon": "^1.14.12",
+    "pug": "^2.0.0-rc.4"
+  }
+}
